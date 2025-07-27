@@ -12,6 +12,21 @@ Built with:
 ## 🚀 Live Demo
 Try it here: [Movie Recommender App](https://movie-recommendation-app-yknvhu6yzbhapsewhq7sew.streamlit.app/)
 
+
+## 📂 Dataset Used
+
+- 📄 **movies.csv** – Contains cleaned metadata for over 4,800 movies
+- ❌ **credits.csv** – *Not included due to file size limitations (>25MB)*
+
+If you'd like to recreate the full dataset locally, you can download both from Kaggle:
+
+👉 [TMDB Movie Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+
+Or, download the original `credits.csv` here:  
+📥 [credits.csv – [TMDB Movie Dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv)
+
+
+
 ## 🧠 How It Works
 
 - The system uses movie metadata such as genres, keywords, cast, and crew.
