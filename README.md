@@ -13,6 +13,12 @@ Built with:
 Try it here: [Movie Recommender App](https://movie-recommendation-app-yknvhu6yzbhapsewhq7sew.streamlit.app/)
 
 
+## 🗂️ Files![demo](https://github.com/user-attachments/assets/5e468847-be81-4ade-b276-fc9be4cd040c)
+ Included
+
+
+
+
 ## 📂 Dataset Used
 
 - 📄 **movies.csv** – Contains cleaned metadata for over 4,800 movies
@@ -33,8 +39,7 @@ Or, download the original `credits.csv` here:
 - Text features are vectorized using `CountVectorizer`.
 - Cosine similarity is calculated between all movie vectors.
 - The top 5 similar movies are shown when a user selects one.
-
-## 🗂️ Files Included
+  
 
 - `app.py` – Streamlit UI code
 - `movies.csv` – Cleaned dataset with metadata
@@ -50,4 +55,6 @@ You can generate it by running the `generate_similarity.py` script (see below), 
 📥 https://drive.google.com/file/d/1N01JBtIScxb9ppqJFbJV2SNUnUoOtIo_/view?usp=drivesdk
 
 > Note: You must place the `similarity.pkl` file in the root folder to run the app locally.
+
+
 
